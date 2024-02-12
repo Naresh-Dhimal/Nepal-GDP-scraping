@@ -16,7 +16,7 @@ finding the table class
 ```python
 soup_data.find(class_ = '<class_table_name>')
 ```
-finding the table head
+finding the table head<br>
 ![image](https://github.com/Naresh-Dhimal/Nepal-GDP-scraping/assets/122601911/395ce972-851f-4da5-a751-a42e074864b5)
 
 to store table header list comprehension is used
