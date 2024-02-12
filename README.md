@@ -17,9 +17,8 @@ finding the table class
 soup_data.find(class_ = '<class_table_name>')
 ```
 finding the table head
-```python
-table_data.find_all('th')
-```
+![image](https://github.com/Naresh-Dhimal/Nepal-GDP-scraping/assets/122601911/395ce972-851f-4da5-a751-a42e074864b5)
+
 to store table header list comprehension is used
 ```python
 table_title = [title.text for title in table_headers]
