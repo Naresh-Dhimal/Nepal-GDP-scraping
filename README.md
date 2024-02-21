@@ -5,7 +5,7 @@ import requests
 ```
 sending http requests with url = "https://www.worldometers.info/gdp/nepal-gdp/"
 ```python
-requessts.get('url').content
+requests.get('url').content
 ```
 BeautifulSoup package is used to pasing the html document
 ```python
